@@ -1,0 +1,1 @@
+default_app_config = 'carinfo.apps.CarinfoConfig'
